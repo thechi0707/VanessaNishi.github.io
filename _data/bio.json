@@ -10,34 +10,30 @@
     "location": { "address": "", "postalCode": "96821", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "VanessaNishi", "url": "https://vanessanishi.github.io/" },
-      { "network": "linkedin", "username": "vanessanishi", "url": "www.linkedin.com/in/vanessa-nishi-02381823a" },
-      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
+      { "network": "linkedin", "username": "vanessanishi", "url": "www.linkedin.com/in/vanessa-nishi-02381823a" }
     ]
   },
   "interests": [
-    { "name": "Interactive media" },
-    { "name": "Neuromorphic Computing" },
-    { "name": "Quantum Computing" },
-    { "name": "Robotics" },
+    { "name": "Software Engineering" },
+    { "name": "Game Design" },
     { "name": "3D Graphics" }
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Common Lisp" ]
+      "keywords": [ "C", "Java" ]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
+      "keywords": [ "MacOS", "Git/GitHub" ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "area": "Computer Science (expected Fall, 2025)",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "startDate": "2021-08",
       "endDate": "Present",
       "courses": [
       ]
@@ -45,27 +41,27 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "Jejubing Dessert Cafe",
+      "position": "Cashier",
       "website": "",
-      "startDate": "2015-08-01",
-      "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "startDate": "2020-08",
+      "endDate": "2021-11",
+      "summary": "Managed all orders for Jejubing Dessert Cafe",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Handled all orders and transactions",
+        "Maintained a high level of efficient customer service"
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
+      "company": "UH Chemistry Stockroom",
+      "position": "Clerk",
+      "website": "",
+      "startDate": "2022-08",
+      "endDate": "2023-08",
+      "summary": "Performed general clerical duties & assisted customers",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Stocked shelves, took inventory, assisted with processing purchase orders",
+        "Managed deliveries and assisted customers"
       ]
     }
   ],
