@@ -34,7 +34,7 @@ have to pay for packing supplies out of pocket.
 
 Another important thing a GOM must have is trust within the community. All trading and selling is done on an honor basis, so there is
 very little you can do if you get scammed. That's why it's important to build a good reputation through positive past transactions and 
-good conduct as a GOM. If people see that you're trustworthy, organized, and a good communicator, they will come back again! 
+good conduct as a GOM. If people see that you're trustworthy, organized, and a good communicator, they will come back again!
 
 Being GOM takes a lot of time and effort, but being able to help others build their collections and forming new relationships with
 fellow collectors makes it 10000% worth it!
