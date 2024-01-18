@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Thoughts on JavaScript"
+title: "The Joys of JavaScript"
 # All dates must be YYYY-MM-DD format!
 date: 2023-01-17
 published: true
