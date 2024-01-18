@@ -8,7 +8,8 @@ published: true
 labels:
 ---
 
-"What do you want to be when you grow up?" As a kid my answer was always, "a baker." I don't really know how my 8 year-old-self decided on becoming a pastry-maker; I think I was imagining it involving some Willy Wonka-levels of incredible sweets creation or maybe just the idea of being able to snack on yummy pastries all day made it the most appealing. I definitely did not imagine myself being here, pursuing a degree in computer science, and eventually a career working on code and computers. While I don't have a strong passion for baking or coding, I like them well enough that I could work a job doing one and save the other as a hobby for when I want a sweet treat. 
+## "What do you want to be when you grow up?" 
+As a kid my answer was always, "a baker." I don't really know how my 8 year-old-self decided on becoming a pastry-maker; I think I was imagining it involving some Willy Wonka-levels of incredible sweets creation or maybe just the idea of being able to snack on yummy pastries all day made it the most appealing. I definitely did not imagine myself being here, pursuing a degree in computer science, and eventually a career working on code and computers. While I don't have a strong passion for baking or coding, I like them well enough that I could work a job doing one and save the other as a hobby for when I want a sweet treat. 
 
 <img src="../img/bakingcat.jpeg">
 
