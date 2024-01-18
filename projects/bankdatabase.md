@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/cotton/cotton-square.png
+image: img/bank.jpeg
 title: "Bank Database Project"
 date: 2023
 published: true
