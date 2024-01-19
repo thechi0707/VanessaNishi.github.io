@@ -16,7 +16,7 @@ so that everyone can build their collections more easily.
 A group order manager(GOM) is a person who buys albums, photocards, or other merchandise in bulk and distributes
 them in smaller quantities to various joiners. This is usually done because buying in bulk is cheaper, it reduces 
 individual shipping costs and a joiner may have a better chance of getting the member photocard they want
-if there'ss a larger pool of albums (the albums are opened and sorted based on who wants which member).
+if there's a larger pool of albums (the albums are opened and sorted based on who wants which member).
 
 The general process is:
   1) Gather interested joiners
