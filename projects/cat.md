@@ -15,4 +15,5 @@ My family and I adopted our cat, Chi in August 2022. Aside from three mice and a
 # Daily Care
 Daily care involves feeding her in the morning and night, as well as playtime and outside-time (she likes to go exploring in our backyard) in the morning and late afternoonish (5pm-8ish pm). Taking care of her daily taught me a lot about responsibility and time management, especially because cats function on a schedule. Feeding her at the proper times, always checking her litter box, making sure we're stocked up on food, litter, other supplies, as well as dedicating time everyday to play with her; these are all things we have to manage to ensure Chi is a happy and healthy kitty.
 
-<img src="../img/chioutside.jpg">
+<img width="200px" 
+    src="../img/chioutside.jpg">
