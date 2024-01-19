@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/cotton/cotton-square.png
+image: img/cardprofile.jpg
 title: "K-Pop Group Order Manager"
 date: 2023
 published: true
@@ -32,14 +32,15 @@ such as problems with customs, joiners having trouble making payments, etc. The 
 everyone's orders individually. Another reason to be organized is that you don't want to send the items to the wrong person. I often
 have to pay for packing supplies out of pocket. 
 
+One the spreadsheets I've created in the past:
+<img src="../img/spreadsheet.png">
+
 Another important thing a GOM must have is trust within the community. All trading and selling is done on an honor basis, so there is
 very little you can do if you get scammed. That's why it's important to build a good reputation through positive past transactions and 
 good conduct as a GOM. If people see that you're trustworthy, organized, and a good communicator, they will come back again!
 
 Being GOM takes a lot of time and effort, but being able to help others build their collections and forming new relationships with
 fellow collectors makes it 10000% worth it!
-</pre>
 
-<hr>
-
-Source: <a href="https://github.com/jogarces/ics-313-text-game"><i class="large github icon "></i>jogarces/ics-313-text-game</a>
+Some of the sets I've hosted for:
+<img src="../img/card1.jpg"> <img src="../img/card2.jpg">
