@@ -43,4 +43,7 @@ Being GOM takes a lot of time and effort, but being able to help others build th
 fellow collectors makes it 10000% worth it!
 
 Some of the sets I've hosted for:
-<img src="../img/card1.jpg"> <img src="../img/card2.jpg">
+<img width="200px" 
+    src="../img/card1.jpg"> 
+<img width="200px" 
+    src="../img/card2.jpg">
