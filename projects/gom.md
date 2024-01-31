@@ -29,7 +29,7 @@ everything on a spreadsheet, which helps me keep track of all my joiners, who wa
 shipping + other fees), whether they have paid, and their mailing addresses. I have to communicate clearly with my joiners so
 they know what I need from them and when, as well as giving them shippig updates. I also have to deal with any issues that arise, 
 such as problems with customs, joiners having trouble making payments, etc. The most time-consuming part is sorting and packaging 
-everyone's orders individually. Another reason to be organized is that you don't want to send the items to the wrong person. I often
+everyone's orders individually. Another reason to be organized is that you don't want to send items to the wrong person. I often
 have to pay for packing supplies out of pocket. 
 
 One the spreadsheets I've created in the past:
