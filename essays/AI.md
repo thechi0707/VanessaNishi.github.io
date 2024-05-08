@@ -15,35 +15,35 @@ In comparison to my other classes, which prohibit any use of AI, ICS 314 is the 
 ### II. Personal Experience with AI:
 I have used AI in class this semester in the following areas:
 
-1. Experience WODs e.g. E18
-   I don’t remember for which experiences specifically, but I used ChatGPT for module 10(HTML, CSS). This module introduced a lot of new syntax and it was hard to remember all of it, so I asked it simple things like “how to write a comment in HTML,” “what is <hr />,” “how to change the color of text.” I also asked it to explain the difference was between margins and borders and it answered with a visual representation, which was very helpful in understanding the concept.
+1. Experience WODs e.g. E18<br />
+    I don’t remember for which experiences specifically, but I used ChatGPT for module 10(HTML, CSS). This module introduced a lot of new syntax and it was hard to remember all of it, so I asked it simple things like “how to write a comment in HTML,” “what is hr,” “how to change the color of text.” I also asked it to explain the difference was between margins and borders and it answered with a visual representation, which was very helpful in understanding the concept.
    I also used it in module 11, specifically for E36: Your Choice with Bootstrap 5. There were many times when I wanted to format elements a certain way, so I would ask ChatGPT how (e.g. how to make navbar align right?). Often times the answer it gave did work, but sometimes it didn’t, and I would go back to Google and stackOverflow.
 
-2. In-class Practice WODs
+2. In-class Practice WODs<br />
    I did not use AI but I did utilize Google or StackOverflow if I had a question. I had more trust in these sources because the information was coming from an established reference or real people online. I was most concerned with getting the most accurate answer first and avoiding wasting time trying to fix a potentially bad solution.  
-3. In-class WODs
+3. In-class WODs<br />
    I did not use AI, for similar reasons. I was more worried because I didn’t want to mess anything up during the WOD. I would mostly reference my old code if I forgot how to code something. 
-4. Essays
+4. Essays<br />
    I’ve never used AI on an essay. The professors put a lot of emphasis on using your own 'voice,' so I've never asked it to write any part of an essay. I've never used it as a grammar or spell-checker either, but I definitely will from now on. I think that's a great way to utilize AI. 
-5. Final project
+5. Final project<br />
    I’ve haven’t used AI on the final project. Most of the work has been doable without it, since most it has been similar to digits, in which I’m just reworking the template and adjusting the css. For things I didn’t know how to do, like implementing a search bar, I used a YouTube tutorial and not AI. I didn’t think to use AI at the time, but as I’m writing this I just looked up how to do it in ChatGPT, and it gave me about the same thing the YouTube tutorial did, so I probably could’ve used AI and saved some time. 
-6. Learning a concept / tutorial
+6. Learning a concept / tutorial<br />
    I’ve asked ChatGPT to explain things like <form> in HTML and card in bootstrap. It provided example code and explanations of the different components, which I found helpful.
-7. Answering a question in class or in Discord
+7. Answering a question in class or in Discord<br />
    I’ve never used AI to help answer a question because their questions were very specific and required you to actually look at their code/files in order to help. For example, someone asked, “While I was deleting files, all of a sudden my local page went white. Why is this happening?” This is not the kind of problem AI can diagnose, so I didn’t use it here.
-8. Asking or answering a smart-question
+8. Asking or answering a smart-question<br />
    For similar reasons as #7 I didn’t use AI here either.
-9. Coding example e.g. “give an example of using Underscore .pluck”
+9. Coding example e.g. “give an example of using Underscore .pluck”<br />
    I have used AI for coding examples of things like bootstrap cards and navbar, because they have such specific formatting that it’s hard to remember off-hand. ChatGPT gave a example and explained each of the components, which was very helpful.
-10. Explaining code
-    I’ve used AI to explain things I didn’t understand like “gx-3” or <hr />. It provided an explanation and example code, which was very helpful. Using AI in this case would've been quicker than scrolling through a website looking for the answer
-11. Writing code
+10. Explaining code<br />
+    I’ve used AI to explain things I didn’t understand like “gx-3” or hr. It provided an explanation and example code, which was very helpful. Using AI in this case would've been quicker than scrolling through a website looking for the answer
+11. Writing code<br />
     I’ve never asked it to write code for me, only examples of concept I was attempting to create. I mainly used it to understand concepts I didn't understand or see how certain elements were formatted, like the navbar or card element. 
-12. Documenting code
+12. Documenting code<br />
     I’ve never used AI here because I felt like I could maintain good code documentation without it.
-13. Quality assurance
+13. Quality assurance<br />
     I haven’t used AI here. If I had trouble with code, I would look for a solution on stackOverflow.
-14. Other uses in ICS 314 not listed above
+14. Other uses in ICS 314 not listed above<br />
     None.
 
 ### III. Impact on Learning and Understanding:
