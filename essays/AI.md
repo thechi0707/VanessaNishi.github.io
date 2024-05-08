@@ -51,9 +51,17 @@ I believe that overall, AI has helped enhance my learning of software engineerin
 
 ### IV. Practical Applications:
 AI has found much usage in a variety of applications outside of ICS 314 and even outside of software engineering in general. One application is the world of visual effects of VFX. Back in 2011, the massively popular tv-show Game of Thrones aired it's first season, introducing one of it's most iconic characters, Daenerys Targaryen. In A Song of Ice and Fire, the book series the show is based on, all Targaryens have the signature characteristics of white hair and purple eyes. However, while the TV-Targaryens sport their stunning platinum blonde hair, the iconic purple eyes of their book-counterparts never made it to the big-screen. According to the creators, CGI at the time was too complicated and expensive, while violet contacts were very uncomfortable for the actors to wear, which subsequently hindered their performance. Ultimately, VFX limitations prevented some of these iconic details from the books from making it on-screen. 
+
+<p align="center">
+    <img width="300px" src="../img/dany.jpeg">
+</p>
+
 Fast forward 12-ish years to when the movie Dune Part Two was being created. In the world of Dune, there exists a group of people called the Fremen, who have characteristic blue eyes. Due to the large amount of Fremen characters, the work to digitally color all of their eyes would have been difficult, but the special effects team found a clever solution. VFX supervisor Paul Lambert stated in the official production notes:
 
 >We came up with a different technique, using what we’d learned before from the hundreds of blue eye shots in the first movie and creating a machine learning model, an algorithm trained from those ‘Dune’ shots to find human eyes in an image, which would then give us a matte for the different parts of the eye. We then used this multi-part matte to tint the eyes blue. Some worked better than others, those others we did by hand. It actually went full circle sometimes, in that we had to take out some of the blue eyes that got generated in the non-Freman characters, rather than add them, as the algorithm would just find eyes, whether they were Freman, Harkonnen or Sardaukar! But, it was a brand new technique, getting that done.
+<p align="center">
+    <img width="500px" src="../img/dune.jpeg">
+</p>
 
 In other words, instead of having a VFX artist identify the eyes frame by frame, the VFX team utilized AI to find the eyes instead. As Lambert stated, the algorithm was not perfect and required artists to adjust or undo some of it's work, but it ultimately cut down many hours of what otherwise would've been very tedious work. In this instance, AI helped make a task that ten years ago would've been very complicated, expensive and tedious, a feasible job. This highlights one of the great upsides of AI, in that it can automate the menial and tedious tasks, allowing the user to focus on more complex work. This advantage applies to software engineering as well, as AI can be used to write starter code, write tests and test cases, do error checking, etc. Similar to the eye tracking algorithm used in Dune, such uses of AI are imperfect and require review, but ultimately can save a programmer hours of menial work. 
 
