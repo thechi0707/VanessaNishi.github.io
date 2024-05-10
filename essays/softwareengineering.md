@@ -1,12 +1,11 @@
 ---
 layout: essay
 type: essay
-title: ""
+title: "Software Engineering is More than Just Coding"
 # All dates must be YYYY-MM-DD format!
-date: 2024-05-05
+date: 2024-05-09
 published: true
 labels:
-  - Javascript
 ---
 
 ### It's the Little Things
@@ -29,3 +28,6 @@ Learning how to create good design like this was the focus of the User Interface
 </p>
 
 Aside from functionality, appearance is also important in good design. Think of all the signs and billboards you drive past on your way to work/school. Advertisements like this need to clear, concise, eye-catching. Especially if the advertisement is for a business, how they present themselves speaks volumes to their professionalism and trustworthiness. The importance of good UI design that we learned goes beyond just creating websites. It's something that we need in everyday life. 
+
+### Teamwork Makes the Dream Work
+Collaboration occurs everywhere and in almost any occupation. Being able to work efficiently with others is one of the most important skills in life. There are many tools and strategies out there to help people achieve this. One of them is called Issue Driven Project Management (IDPM), an agile project management strategy designed to help large teams of developers create high-quality apps with larger code bases (500k lines of code). A quick breakdown of the IDPM process is this: all tasks for the project are created as issues in GitHub projects, called 'Milestones'. These tasks are divided into catergories of to-do, in-progress, and done. There should be twice the number of tasks as there are group members and every group member should be assigned an issue that's in-progress. Every task shouldn't take more than three days to complete (otherwise is should be broken into smaller tasks) and each has a description on what needs to be completed and in which branch this work should be completed in. After a certain amount of time has passed or a significant portion of the project has been completed, the to-do and in-progress issues are moved over to a new milestone and the finished issues are preserved in the current milestone as a reflection of what was completed during that period of time. During this time the team also meets twice a week to discuss the project and any issues that arise. This continues until the project is completed. This method of project management is quite efficient and helps mitigate confusion between team members. Any member can clearly see what everyone else is working on at any time, so there's no complication over who's doing what. Additionally, once a team member finishes their task, they can immediately pick a new one and start working without having to ask or discuss with their team first. Having, basically a to-do list, laid out for you makes work run smoothly and efficiently. We were required to utilize this in our group project and I found it very helpful. I would want to apply this style of project management to ANY large project I work on in the future, not just coding-related ones. It offers a clear path to the finish line with every step laid out nicely so that everyone can reach the goal together with ease. 
