@@ -6,6 +6,9 @@ title: "Professor, I Choose You!"
 date: 2024
 published: true
 labels:
+    - Javascript
+    - React
+    - CSS
 summary: "Professor trading card website created as final project for ICS 314"
 ---
 
