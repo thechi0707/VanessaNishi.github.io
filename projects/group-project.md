@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/group-project.logo.png
+image: img/group-project/logo.png
 title: "Professor, I Choose You!"
 date: 2024
 published: true
