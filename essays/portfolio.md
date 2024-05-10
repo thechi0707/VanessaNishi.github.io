@@ -4,7 +4,7 @@ type: essay
 title: "From aspiring baker to software engineer?"
 # All dates must be YYYY-MM-DD format!
 date: 2023-01-17
-published: true
+published: false
 labels:
 ---
 

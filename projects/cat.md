@@ -4,7 +4,7 @@ type: project
 image: img/chiprofile.jpg
 title: "The Joys of Owning a Cat"
 date: 2023
-published: true
+published: false
 labels:
 summary: "The adoption preparation and daily care I do for my cat."
 ---
