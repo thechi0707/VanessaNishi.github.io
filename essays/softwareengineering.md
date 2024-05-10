@@ -12,8 +12,8 @@ labels:
 A good user interface is vital for any website or application. It's the very first thing that the user sees and interacts with, so for the same reason you'd only wear business casual to a job interview, making a good impression is everything. But what exactly makes a UI 'good'? Let's first take a look at these two examples: 
 
 <p align="center">
-<img src="../img/softwareengineering/bad.png" />
-<img src="../img/softwareengineering/meteor-example.png" />
+<img src="../img/softwareengineering/bad.png" width="300px" />
+<img src="../img/softwareengineering/meteor-example.png" width="300px" />
 </p>
 
 At first glance it's clear which design gives a better impression. The one on the left is messy and hard to read. The background does not provide enough contrast against the text, making some words completely indiscernible. The profile names and images are misaligned with overall very poor formatting. The overall impression this first example gives is disorganized and unprofessional. The second one, on the other hand, is much easier on the eyes. It's clean, organized and easy-to-read, with all elements of the page formatted nicely and evenly. This page says ,"organized and professional." Having a good presentation is paramount for any user-interface, and these examples show what a difference it makes.
