@@ -4,7 +4,7 @@ type: essay
 title: "Web-Design: My First Baby Steps"
 # All dates must be YYYY-MM-DD format!
 date: 2024-02-22
-published: true
+published: false
 labels:
   - HTML
   - CSS

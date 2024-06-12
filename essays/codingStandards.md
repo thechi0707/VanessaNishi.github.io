@@ -4,7 +4,7 @@ type: essay
 title: "ESLint: Your Overly Anxious Coding Buddy"
 # All dates must be YYYY-MM-DD format!
 date: 2023-02-07
-published: true
+published: false
 labels:
   - Javascript
 ---
